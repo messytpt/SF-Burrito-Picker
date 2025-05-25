@@ -1,0 +1,95 @@
+veg_meat,meat_type,veg_type,rice,chips,size ,location,variety,breakfast,rare,restaurant ,burrito
+Meat,carne asada,None,no,no,2,there,experimental,no ,no,La Taqueria,Carne Asada Super Burrito (get it dorado style)
+Meat,carne asada,None,no,yes,2,take out,experimental,no ,no,La Taqueria,Carne Asada Super Burrito (get it dorado style)
+Meat,carne asada,None,no,yes,3,there,experimental,no ,no,La Taqueria,Carne Asada Super Burrito (get it dorado style)
+Meat,carne asada,None,no,no,2,there,traditional,no ,no,La Taqueria,Carne Asada Super Burrito (get it dorado style)
+Meat,carne asada,None,no,yes,2,take out,traditional,no ,no,La Taqueria,Carne Asada Super Burrito (get it dorado style)
+Meat,carne asada,None,no,yes,3,there,traditional,no ,no,La Taqueria,Carne Asada Super Burrito (get it dorado style)
+Meat,carne asada,None,yes,no,3,there,traditional,no ,no,El Farolito,Carne Asada Super Burrito
+Meat,carne asada,None,yes,yes,3,take out,traditional,no ,no,El Farolito,Carne Asada Super Burrito
+meat,carne asada,None,no,no,2,take out,traditional,no ,yes,La Palma,Carne Asada Super Burrito
+meat,carne asada,None,yes,yes,2,take out,traditional,no ,yes,La Palma,Carne Asada Super Burrito
+meat,carne asada,None,yes,yes,3,there,experimental,no ,yes,La Palma,Carne Asada Super Burrito
+meat,carne asada,None,yes,no,3,take out,traditional,no ,yes,Tacos Del Barrio,Carne Asada Super Burrito
+meat,carne asada,None,yes,no,2,there,experimental,no ,yes,Tacos Del Barrio,Carne Asada Super Burrito
+meat,carne asada,None,no,yes,2,there,experimental,no ,yes,Tacos Del Barrio,Carne Asada Super Burrito
+Meat,al pastor,None,no,no,2,there,experimental,no ,no,La Taqueria,Al Pastor Super Burrito (get it dorado style)
+Meat,al pastor,None,no,yes,2,take out,experimental,no ,no,La Taqueria,Al Pastor Super Burrito (get it dorado style)
+Meat,al pastor,None,no,yes,3,there,experimental,no ,no,La Taqueria,Al Pastor Super Burrito (get it dorado style)
+Meat,al pastor,None,no,no,2,there,traditional,no ,no,La Taqueria,Al Pastor Super Burrito (get it dorado style)
+Meat,al pastor,None,no,yes,2,take out,traditional,no ,no,La Taqueria,Al Pastor Super Burrito (get it dorado style)
+Meat,al pastor,None,no,yes,3,there,traditional,no ,no,La Taqueria,Al Pastor Super Burrito (get it dorado style)
+Meat,al pastor,None,yes,no,3,there,traditional,no ,no,El Farolito,Al Pastor Super Burrito
+Meat,al pastor,None,yes,yes,3,take out,traditional,no ,no,El Farolito,Al Pastor Super Burrito
+meat,al pastor,None,no,no,2,take out,traditional,no ,yes,La Palma,Al Pastor Super Burrito
+meat,al pastor,None,yes,yes,2,take out,traditional,no ,yes,La Palma,Al Pastor Super Burrito
+meat,al pastor,None,yes,yes,3,there,experimental,no ,yes,La Palma,Al Pastor Super Burrito
+meat,al pastor,None,yes,no,3,take out,traditional,no ,yes,Tacos Del Barrio,Al Pastor Super Burrito
+meat,al pastor,None,yes,no,2,there,experimental,no ,yes,Tacos Del Barrio,Al Pastor Super Burrito
+meat,al pastor,None,no,yes,2,there,experimental,no ,yes,Tacos Del Barrio,Al Pastor Super Burrito
+Meat,carnitas,None,no,no,2,there,experimental,no ,no,La Taqueria,Carnitas Super Burrito (dorado style)
+Meat,carnitas,None,no,yes,2,take out,experimental,no ,no,La Taqueria,Carnitas Super Burrito (dorado style)
+Meat,carnitas,None,no,yes,3,there,experimental,no ,no,La Taqueria,Carnitas Super Burrito (dorado style)
+Meat,carnitas,None,no,no,2,there,traditional,no ,no,La Taqueria,Carnitas Super Burrito (dorado style)
+Meat,carnitas,None,no,yes,2,take out,traditional,no ,no,La Taqueria,Carnitas Super Burrito (dorado style)
+Meat,carnitas,None,no,yes,3,there,traditional,no ,no,La Taqueria,Carnitas Super Burrito (dorado style)
+Meat,carnitas,None,yes,no,3,there,traditional,no ,no,El Farolito,Carnitas Super Burrito
+Meat,carnitas,None,yes,yes,3,take out,traditional,no ,no,El Farolito,Carnitas Super Burrito
+meat,carnitas,None,no,no,2,take out,traditional,no ,yes,La Palma,Carnitas Super Burrito
+meat,carnitas,None,yes,yes,2,take out,traditional,no ,yes,La Palma,Carnitas Super Burrito
+meat,carnitas,None,yes,yes,3,there,experimental,no ,yes,La Palma,Carnitas Super Burrito
+meat,carnitas,None,yes,no,3,take out,traditional,no ,yes,Tacos Del Barrio,Carnitas Super Burrito
+meat,carnitas,None,yes,no,2,there,experimental,no ,yes,Tacos Del Barrio,Carnitas Super Burrito
+meat,carnitas,none,no,yes,2,there,experimental,no ,yes,Tacos Del Barrio,Carnitas Super Burrito
+meat,chicharron,None,no,no,3,there,traditional ,no ,yes,La Espiga De Oro,Chicharron Super Burrito
+meat,chicharron,None,yes,no,2,take out,traditional ,no ,no,La Espiga De Oro,Chicharron Super Burrito
+meat,chicharron,None,yes,no,2,take out,experimental,no ,yes,La Espiga De Oro,Chicharron Super Burrito
+meat,chicharron,None,yes,yes,3,take out,traditional ,no ,no,La Espiga De Oro,Chicharron Super Burrito
+meat,chicharron,None,no,yes,2,take out,experimental,no ,no,La Espiga De Oro,Chicharron Super Burrito
+Vegetarian,None,Nopales ,no,no,3,there,traditional,no ,no,Tacos Del Barrio,Nopales Super Burrito
+Vegetarian,None,Nopales ,yes,no,2,take out,traditional,no ,yes,Tacos Del Barrio,Nopales Super Burrito
+Vegetarian,None,Nopales ,yes,yes,2,take out,experimental,no ,yes,Tacos Del Barrio,Nopales Super Burrito
+Vegetarian,None,Nopales ,no,yes,3,take out,experimental,no ,no,Tacos Del Barrio,Nopales Super Burrito
+Vegetarian,None,Nopales ,yes,yes,2,there,traditional,no ,yes,Tacos Del Barrio,Nopales Super Burrito
+Vegetarian,None,Veggies,yes,no,2,take out,experimental,no ,no,Taqueria Vallarta ,Try one of Vallarta's wacky Vegetarian Burritos
+Vegetarian,None,Veggies,no,yes,3,there,experimental,no ,yes,Taqueria Vallarta ,Try one of Vallarta's wacky Vegetarian Burritos
+Vegetarian,None,Veggies,yes,yes,3,there,experimental,no ,no,Taqueria Vallarta ,Try one of Vallarta's wacky Vegetarian Burritos
+Vegetarian,None,Veggies,no,no,2,take out,experimental,no ,yes,Taqueria Vallarta ,Try one of Vallarta's wacky Vegetarian Burritos
+Vegetarian,None,Veggies,no,no,2,take out,experimental,no ,no,Taqueria Vallarta ,Try one of Vallarta's wacky Vegetarian Burritos
+Vegetarian,None,broccoli + carrots,yes,yes,3,take out,traditional,no ,yes,El Metate,Super Vegetarian Burrito
+Vegetarian,None,broccoli + carrots,no,yes,2,there,traditional,no ,no,El Metate,Super Vegetarian Burrito
+Vegetarian,None,broccoli + carrots,no,yes,2,there,experimental,no ,no,El Metate,Super Vegetarian Burrito
+Vegetarian,None,broccoli + carrots,no,no,3,take out,experimental,no ,yes,El Metate,Super Vegetarian Burrito
+Vegetarian,None,broccoli + carrots,no,no,3,take out,traditional,no ,yes,El Metate,Super Vegetarian Burrito
+Vegetarian,None,chile relleno,no,no,2,take out,traditional,no ,no,Taqueria El Buen Sabor,Chile Relleno Super Burrito
+Vegetarian,None,chile relleno,yes,yes,3,there,traditional,no ,yes,Taqueria El Buen Sabor,Chile Relleno Super Burrito
+Vegetarian,None,chile relleno,yes,no,3,there,experimental,no ,yes,Taqueria El Buen Sabor,Chile Relleno Super Burrito
+Vegetarian,None,chile relleno,no,no,2,take out,experimental,no ,no,Taqueria El Buen Sabor,Chile Relleno Super Burrito
+Vegetarian,None,chile relleno,no,yes,3,there,traditional,no ,yes,Taqueria El Buen Sabor,Chile Relleno Super Burrito
+Vegetarian,None,red bell pepper + onions,no,no,3,there,traditional,no ,no,Tacos El Patron,Super Vegetarian Burrito
+Vegetarian,None,red bell pepper + onions,yes,no,2,there,traditional,no ,yes,Tacos El Patron,Super Vegetarian Burrito
+Vegetarian,None,red bell pepper + onions,no,yes,3,take out,experimental,no ,yes,Tacos El Patron,Super Vegetarian Burrito
+Vegetarian,None,red bell pepper + onions,no,no,2,take out,experimental,no ,no,Tacos El Patron,Super Vegetarian Burrito
+Vegetarian,None,red bell pepper + onions,yes,yes,3,take out,traditional,no ,no,Tacos El Patron,Super Vegetarian Burrito
+Vegetarian,None,Veggies,no,no,2,there,traditional,no ,no,El Metate ,Super Vegetarian Burrito
+Vegetarian,None,Veggies,no,no,2,take out,traditional,no ,yes,El Metate ,Super Vegetarian Burrito
+Vegetarian,None,Veggies,yes,yes,2,there,traditional,no ,no,El Metate ,Super Vegetarian Burrito
+Vegetarian,None,Veggies,no,yes,2,take out,traditional,no ,no,El Metate ,Super Vegetarian Burrito
+Vegetarian,None,Veggies,no,no,3,there,traditional,no ,yes,Tacos El Patron,Super Vegetarian Burrito
+Vegetarian,None,Veggies,no,yes,3,take out,traditional,no ,yes,Tacos El Patron,Super Vegetarian Burrito
+Vegetarian,None,Veggies,yes,no,3,there,traditional,no ,no,Tacos El Patron,Super Vegetarian Burrito
+Vegetarian,none,Veggies,yes,yes,3,take out,traditional,no ,yes,Tacos El Patron,Super Vegetarian Burrito
+Meat,birria,None,yes,yes,3,there,traditional,no ,no,La Vaca Birria,Birria Super Burrito
+Meat,birria,None,yes,yes,3,there,experimental,no ,no,La Vaca Birria,Birria-Grilled Chese Burrito
+Meat,birria,None,no,yes,3,there,traditional,no ,no,La Vaca Birria,Birria Super Burrito
+Meat,birria,None,no,yes,3,there,traditional,no ,no,La Vaca Birria,Birria Super Burrito
+Meat,birria,None,no,yes,2,there,traditional,no ,no,La Vaca Birria,Birria Super Burrito
+Meat,birria,None,no,yes,3,there,traditional,no ,yes,La Vaca Birria,Birria Super Burrito
+Meat,birria,None,no,yes,3,there,experimental,no ,no,La Vaca Birria,Birria-Grilled Chese Burrito
+Meat,birria,None,yes,yes,2,there,experimental,no ,yes,La Vaca Birria,Birria-Grilled Chese Burrito
+Meat,birria,None,yes,no,3,there,experimental,no ,no,La Vaca Birria,Birria-Grilled Chese Burrito
+meat,chorizo,None,no,yes,2,there,experimental,no ,no,La Taqueria,Chorizo Super Burrito (get it dorado style)
+meat,chorizo,None,yes,yes,3,take out,traditional,no ,no,La Taqueria,Chorizo Super Burrito (get it dorado style)
+meat,chorizo,None,no,no,3,there,traditional,no ,yes,La Taqueria,Chorizo Super Burrito (get it dorado style)
+meat,chorizo,None,yes,no,2,take out,traditional,no ,yes,La Taqueria,Chorizo Super Burrito (get it dorado style)
+meat,chorizo,None,no,no,3,there,experimental,no ,yes,La Taqueria,Chorizo Super Burrito (get it dorado style)
